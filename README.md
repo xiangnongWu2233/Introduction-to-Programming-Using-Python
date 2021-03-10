@@ -1,2 +1,2 @@
 # Introduction-to-Programming-Using-Python
-### Some exercises from the textbook.
+## Solutions of some practice problems at the end of each chapter.
